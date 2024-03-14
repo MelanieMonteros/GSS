@@ -42,6 +42,7 @@ I looked at the data and it had a numerical variable which was education and had
 plot(EDUC~VOTE16,data=GSSdata)
 ```
 
+Looking at the median only, people who voted have the median of 15 years of education and people who do not vote have a median of 13 years of education 
 
 
 #### Numerical Descriptive Results
